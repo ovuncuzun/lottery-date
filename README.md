@@ -1,1 +1,1 @@
-# lottery-date
+The Irish lottery draw takes place twice weekly on a Wednesday and a Saturday at 8pm. Write a function that calculates and returns the next valid draw date based on the current date and time and also on an optional supplied date time parameter.
